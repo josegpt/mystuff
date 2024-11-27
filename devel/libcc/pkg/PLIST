@@ -1,3 +1,0 @@
-include/cc.h
-@static-lib lib/libcc.a
-@so lib/libcc.so

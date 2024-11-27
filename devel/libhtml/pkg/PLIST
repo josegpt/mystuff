@@ -1,3 +1,0 @@
-include/html.h
-@static-lib lib/libhtml.a
-@so lib/libhtml.so
