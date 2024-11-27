@@ -1,0 +1,24 @@
+@mode 500
+@owner www
+@group www
+@bin www/cgi-bin/addr
+@mode
+@owner
+@group
+www/htdocs/design/
+www/htdocs/design/b.html
+www/htdocs/design/c.html
+www/htdocs/design/d.html
+www/htdocs/design/f.html
+www/htdocs/design/index.html
+www/htdocs/design/l.html
+www/htdocs/design/t.html
+www/htdocs/err.html
+www/htdocs/index.html
+www/htdocs/static/
+www/htdocs/static/css/
+www/htdocs/static/css/style.css
+www/htdocs/static/img/
+www/htdocs/static/img/banner.png
+www/htdocs/static/img/favicon.ico
+www/htdocs/static/img/logo.webp
