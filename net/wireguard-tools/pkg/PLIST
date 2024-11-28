@@ -1,0 +1,4 @@
+@bin bin/wg
+bin/wg-quick
+@man man/man8/wg-quick.8
+@man man/man8/wg.8
