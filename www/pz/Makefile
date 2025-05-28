@@ -2,7 +2,7 @@ COMMENT=		web services.
 
 GH_PROJECT=		pz
 GH_ACCOUNT=		josegpt
-GH_TAGNAME=		0.7
+GH_TAGNAME=		0.16
 
 CATEGORIES=		www
 HOMEPAGE=		https://pz.do
