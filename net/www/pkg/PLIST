@@ -1,0 +1,43 @@
+@mode 500
+@owner www
+@group www
+@bin www/cgi-bin/addr
+@mode
+@owner
+@group
+www/htdocs/mtaveras/
+www/htdocs/mtaveras/err.html
+www/htdocs/mtaveras/index.html
+www/htdocs/mtaveras/static/
+www/htdocs/mtaveras/static/css/
+www/htdocs/mtaveras/static/css/style.css
+www/htdocs/mtaveras/static/img/
+www/htdocs/mtaveras/static/img/aarp.png
+www/htdocs/mtaveras/static/img/aetna.png
+www/htdocs/mtaveras/static/img/banner.png
+www/htdocs/mtaveras/static/img/clover.png
+www/htdocs/mtaveras/static/img/emblemhealth.png
+www/htdocs/mtaveras/static/img/empirehealth.png
+www/htdocs/mtaveras/static/img/favicon.svg
+www/htdocs/mtaveras/static/img/fidelis.png
+www/htdocs/mtaveras/static/img/healthfirst.png
+www/htdocs/mtaveras/static/img/horizon.png
+www/htdocs/mtaveras/static/img/humana.png
+www/htdocs/mtaveras/static/img/silverscript.png
+www/htdocs/mtaveras/static/img/unitedhealthcare.png
+www/htdocs/mtaveras/static/img/wellcare.png
+www/htdocs/pz/
+www/htdocs/pz/err.html
+www/htdocs/pz/ftp/
+www/htdocs/pz/ftp/packages/
+www/htdocs/pz/ftp/packages/amd64/
+www/htdocs/pz/ftp/packages/my-pkg.pub
+www/htdocs/pz/ftp/releases/
+www/htdocs/pz/index.html
+www/htdocs/pz/static/
+www/htdocs/pz/static/css/
+www/htdocs/pz/static/css/style.css
+www/htdocs/pz/static/img/
+www/htdocs/pz/static/img/banner.png
+www/htdocs/pz/static/img/favicon.ico
+www/htdocs/pz/static/img/logo.webp
